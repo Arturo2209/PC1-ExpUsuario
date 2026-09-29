@@ -1,0 +1,36 @@
+# Unity: carpetas que se regeneran solas
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / soluciones generadas
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Otros
+*.apk
+*.aab
+*.unitypackage
+crashlytics-buildinfo*
+sysinfo.txt
+.DS_Store
+Thumbs.db
